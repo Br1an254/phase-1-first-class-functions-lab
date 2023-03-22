@@ -7,9 +7,7 @@ const returnFirstTwoDrivers = function(drivers){
 
 }
 
-// const  drivers = ['Bob', 'John','Mary','Jane'];
-// const FirstTwoDrivers = returnFirstTwoDrivers(drivers);
-// console.log(FirstTwoDrivers);
+
 
 
 const returnLastTwoDrivers = function(drivers){
